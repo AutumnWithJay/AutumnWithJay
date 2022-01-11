@@ -1,5 +1,5 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AutumnWithJay&repo=github-readme-stats)](https://github.com/AutumnWithJay/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AutumnWithJay)](https://github.com/AutumnWithJay/github-readme-stats)
-
-[![Jay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AutumnWithJay)](https://github.com/AutumnWithJay/github-readme-stats)
+<div align="center">
+  
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AutumnWithJay&show_icons=true&theme=react) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AutumnWithJay&layout=compact&theme=react)
+[![Jay's github activity graph](https://activity-graph.herokuapp.com/graph?username=AutumnWithJay&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
