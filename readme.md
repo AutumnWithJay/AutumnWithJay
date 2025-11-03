@@ -11,7 +11,7 @@
 
 | 기간 | 직무 | 근무지 |
 | :---: | :---: | :---: |
-| **2021 ~ Current** | **Web Frontend & Cross Platform App Engineer** | **@두꺼비세상** |
+| **2021 ~ Current (2025)** | **Web Frontend & Cross Platform App Engineer** | **@두꺼비세상** |
 | 2015 ~ 2021 | Network Engineer | (Previous Company) |
 
 </div>
