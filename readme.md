@@ -1,7 +1,7 @@
 <div align="center">
   <h1>안녕하세요! 박준우입니다.</h1>
   <p>
-   현재 두꺼비세상의 자회사 아파트스토리에서 웹 프론트엔드와 크로스플랫폼 앱을 개발하고 있습니다.<br />
+   현재 프리랜서로 웹 프론트엔드와 크로스플랫폼 앱을 개발하고 있습니다.<br />
   </p>
 </div>
 
@@ -11,7 +11,7 @@
 
 | 기간 | 직무 | 근무지 |
 | :---: | :---: | :---: |
-| **2021 ~ Current (2025)** | **Web Frontend & Cross Platform App Engineer** | **@두꺼비세상** |
+| **2021 ~ 2026** | **Web Frontend & Cross Platform App Engineer** | **@두꺼비세상/아파트스토리** |
 | 2015 ~ 2021 | Network Engineer | (Previous Company) |
 
 </div>
