@@ -13,7 +13,7 @@
 | :---: | :---: | :---: |
 | **2026 ~ current** | Web Frontend & Cross Platform App Engineer | NDA |
 | 2021 ~ 2026 | Web Frontend & Cross Platform App Engineer | @두꺼비세상/아파트스토리 |
-| 2015 ~ 2021 | Network Engineer | (Previous Company) |
+| 2015 ~ 2021 | Network Engineer | - |
 
 </div>
 
